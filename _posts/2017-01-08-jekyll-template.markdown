@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jekyll template"
+title:  "Welcome"
 date:   2017-01-08
 categories: jekyll
 ---
-Jekyll template loaded
+Time to start coding !

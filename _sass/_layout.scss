@@ -11,44 +11,6 @@ header {
     align-items: center;
 }
 
-main {
-	padding: 0 15px;
+.container {
 	max-width: $content-width;
-	margin: 0 auto;
-}
-
-// .container {
-// 	max-width: $content-width;
-// 	margin: 0 auto;
-// }
-
-/* Aside */
-
-#topbar {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	z-index: 2;
-	border-bottom: 1px solid grey;
-	nav {
-		float: left;
-		max-width: 800px;
-		margin: 0 auto;
-		ul {
-			margin: 0;
-			padding: 0;
-			list-style: none;
-			li {
-				float: left;
-				position: relative;
-				a {
-					text-decoration: none;
-					display: block;
-					padding: 15px;
-					line-height: 20px;
-				}
-			}
-		}
-	}
 }
